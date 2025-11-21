@@ -4,7 +4,7 @@
 This repository contains the code, data, and models for "GraphCogent: Mitigating LLMs’ Working Memory Constraints via Multi-Agent Collaboration in Complex Graph Understanding."
 
 🔗 **GitHub**: [https://anonymous.4open.science/r/GraphCogent](https://anonymous.4open.science/r/GraphCogent)  
-📜 **Paper**: [Added later]() | 📊 **Benchmark**: [Graph4real](https://anonymous.4open.science/r/GraphCogent) | 🤖 **Agent**: [Huggingface](https://huggingface.co/5SAGI/www2026/tree/main) 
+📜 **Paper**: [Added later]() | 📊 **Benchmark**: [Graph4real](https://anonymous.4open.science/r/GraphCogent) | 🤖 **Agent**: [Added later]() 
 
 
 **📢 Notice: Ongoing Maintenance**: 
